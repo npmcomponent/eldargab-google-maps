@@ -1,4 +1,4 @@
-var jsonp = require('jsonp')
+var jsonp = require('learnboost-jsonp')
 
 module.exports = function (opts) {
   var loaded = false

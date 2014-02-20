@@ -1,0 +1,13 @@
+{
+  "name": "eldargab-google-maps",
+  "description": "Load google maps from JavaScript",
+  "version": "0.0.1",
+  "keywords": [
+    "google",
+    "maps"
+  ],
+  "dependencies": {
+    "learnboost-jsonp": "git://github.com/npmcomponent/learnboost-jsonp.git"
+  },
+  "license": "MIT"
+}
